@@ -4,7 +4,8 @@
 
 ## 개요
 
-Google, Facebook 등과 같이 Unity SDK를 제공하는 여러 IdP를 하나의 공통화된 인터페이스를 통해서 쉽게 적용할 수 있도록 지원하는 서비스입니다.
+Facebook, Google 등의 IdP는 Unity로 개발 중인 애플리케이션에서 쉽고 빠르게 IdP의 기능을 사용할 수 있도록 Unity SDK를 제공하고 있습니다. 하지만 IdP마다 API가 서로 다르므로, 여러 IdP의 기능을 각각 구현 시 많은 학습과 시간이 필요합니다.
+TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 IdP의 기능을 쉽게 적용할 수 있습니다.
 
 ## 스펙
 
