@@ -22,14 +22,14 @@ Facebook, Google 등의 IdP는 Unity로 개발 중인 애플리케이션에서 �
 하지만 IdP마다 API가 서로 다르므로, 여러 IdP의 기능을 각각 구현 시 많은 학습과 시간이 필요합니다.<br/>
 TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 IdP의 기능을 쉽게 적용할 수 있습니다.
 
-[Adapter 서비스로 이동](documents/Adapter/README.md)
+[Adapter 서비스로 이동](docs/Adapter/README.md)
 
 ### DLST(Duplicate Library Search Tool)
 
 많은 외부 라이브러리들을 사용할 경우, 라이브러리 중복 문제가 발생할 수 있습니다.<br/>
 DLST는 Unity 프로젝트 내 중복 라이브러리를 쉽게 검색하고 삭제할 수 있는 서비스입니다.
 
-[DLST 서비스로 이동](documents/Dlst/README.md)
+[DLST 서비스로 이동](docs/Dlst/README.md)
 
 ### WebView
 
