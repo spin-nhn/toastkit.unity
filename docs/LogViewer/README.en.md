@@ -1,5 +1,5 @@
 # LogViewer
 
-🌏 [한국어](README.en.md)
+🌏 [한국어](README.md)
 
 Preparing
