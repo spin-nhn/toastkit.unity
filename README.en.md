@@ -7,9 +7,9 @@
 
 ## Overview
 
-TOAST Kit is a brand that provides free services for game production at NHN.<br/>
-We will continue to update the services required for game production.<br/>
-Please feel free to contact us if you have any questions or comments. 
+TOAST Kit of NHN provides services required for game development at charge-free.<br/>
+More services are to be added.<br/>
+If you have ideas regarding service upgrades or inquiries, don't hesitate but send us mails as below.
 
 dl_toastkit_help@nhn.com
 
