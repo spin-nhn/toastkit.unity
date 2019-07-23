@@ -26,11 +26,12 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
 
 ### DLST(Duplicate Library Search Tool)
 
-많은 외부 라이브러리들을 사용할 경우, 라이브러리 중복 문제가 발생할 수 있습니다.<br/>
-DLST는 Unity 프로젝트 내 중복 라이브러리를 쉽게 검색하고 삭제할 수 있는 서비스입니다.
-
-[DLST 서비스로 이동](docs/Dlst/README.md)
+서비스 준비 중
 
 ### WebView
+
+서비스 준비 중
+
+### LogViewer
 
 서비스 준비 중

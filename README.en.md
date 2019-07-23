@@ -25,12 +25,12 @@ TOAST Kit Adapter provides a common interface so as to easily apply different Id
 
 ### DLST(Duplicate Library Search Tool)
 
-
-When a multiple number of external libraries are used, you may encounter duplicate library issues.<br/>
-DLST searches and removes duplicate libraries.
-
-[Go to the DLS service](docs/DLST/README.en.md)
+Preparing for Service
 
 ### WebView
 
-Preparing
+Preparing for Service
+
+### LogViewer
+
+Preparing for Service
