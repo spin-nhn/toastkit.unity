@@ -2,4 +2,4 @@
 
 🌏 [한국어](README.md)
 
-Preparing
+Preparing for Service
