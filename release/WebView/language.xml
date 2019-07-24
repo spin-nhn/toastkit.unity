@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<multilanguage>
+  <default>
+    <language>en</language>
+  </default>
+  <list>
+    <string>
+      <key>$DESCRIPTION</key>
+      <language>
+        <ko>웹뷰</ko>
+        <en>WebView</en>
+      </language>
+    </string>
+  </list>
+</multilanguage>
