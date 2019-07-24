@@ -10,14 +10,11 @@
     </service>
     <service>
         <name>DLST</name>
-        <version>1.0.0</version>
     </service>
     <service>
         <name>WebView</name>
-        <version>1.0.0</version>
     </service>
     <service>
         <name>LogViewer</name>
-        <version>1.0.0</version>
     </service>
 </serviceList>
