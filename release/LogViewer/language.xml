@@ -7,8 +7,8 @@
     <string>
       <key>$DESCRIPTION</key>
       <language>
-        <ko>로그 뷰어</ko>
-        <en>Log Viewer</en>
+        <ko>TOAST Kit LogViewer는 Edtior뿐만 아니라 Runtime 시에도 로그를 볼 수 있는 서비스입니다.</ko>
+        <en>TOAST Kit LogViewer is a service that allows you to view logs in Edtior, Runtime.</en>
       </language>
     </string>
   </list>
