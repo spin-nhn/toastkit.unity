@@ -18,18 +18,22 @@ TOAST Kit Adapter provides a common interface so as to easily apply different Id
 Each IdP SDK must be downloaded and installed manually.
 
 * Google Play Games plugin for Unity
+    * [Download](https://github.com/playgameservices/play-games-plugin-for-unity)
     * Tested version
         * 0.9.56
         * 0.9.57
         * 0.9.63
-    * [Download](https://github.com/playgameservices/play-games-plugin-for-unity)
-* Facebook SDK for Unity 
+        * 0.9.64
+* Facebook SDK for Unity
+    * [Download](https://developers.facebook.com/docs/unity/downloads)
     * Tested version
         * 7.15.0
         * 7.15.1
-    * [Download](https://developers.facebook.com/docs/unity/downloads)
-
-
+        * 7.16.0
+        * 7.16.1
+        * 7.17.0
+        * 7.17.1
+        * 7.17.2
 
 ## 🔨 API
 

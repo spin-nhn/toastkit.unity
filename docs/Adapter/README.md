@@ -18,17 +18,45 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
 각 IdP SDK는 직접 다운로드 및 설치하셔야 합니다.
 
 * Google Play Games plugin for Unity
+    * [Download](https://github.com/playgameservices/play-games-plugin-for-unity)
     * Tested version
         * 0.9.56
         * 0.9.57
         * 0.9.63
-    * [Download](https://github.com/playgameservices/play-games-plugin-for-unity)
+        * 0.9.64
 * Facebook SDK for Unity 
+    * [Download](https://developers.facebook.com/docs/unity/downloads)
     * Tested version
         * 7.15.0
         * 7.15.1
-    * [Download](https://developers.facebook.com/docs/unity/downloads)
+        * 7.16.0
+        * 7.16.1
+        * 7.17.0
+        * 7.17.1
+        * 7.17.2
 
+## 🔧 AdapterTool
+
+Adapter에서 지원하는 IdP SDK가 없으면 아래와 같은 오류가 발생합니다.
+
+```cs
+Assets/TOAST/Kit/Adapter/IdP/Facebook/Scripts/FacebookAdapter.cs(43,17): error CS0103: The name 'FB' does not exist in the current context
+```
+
+사용하는 IdP에 따라서 Adapter 설정이 필요합니다.
+
+![TOASTKitAdapterSettingTool](./images/TOASTKitAdapterSettingTool_001.png)
+
+### 사용방법
+
+1. Menu > Tools > TOAST > Kit > Adapter > Settings
+2. 사용 여부에 따라 체크 박스를 선택하거나 선택을 해제합니다.
+3. Set 버튼을 클릭하여 설정을 완료합니다.
+
+>!`주의`
+>
+> TOAST Kit Adapter의 폴더 구조를 변경하지 마십시오.
+> TOAST Kit Adapter의 코드 및 파일을 삭제하지 마십시오.
 
 
 ## 🔨 API
