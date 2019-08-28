@@ -50,10 +50,10 @@ Assets/TOAST/Kit/Adapter/IdP/Facebook/Scripts/FacebookAdapter.cs(43,17): error C
 ### 사용방법
 
 1. Menu > Tools > TOAST > Kit > Adapter > Settings
-2. 사용 여부에 따라 체크 박스를 선택하거나 선택을 해제합니다.
+2. 사용 여부에 따라 체크버튼을 선택하거나 선택을 해제합니다.
 3. Set 버튼을 클릭하여 설정을 완료합니다.
 
->!`주의`
+> [`주의`]
 >
 > TOAST Kit Adapter의 폴더 구조를 변경하지 마십시오.
 > TOAST Kit Adapter의 코드 및 파일을 삭제하지 마십시오.
@@ -94,6 +94,7 @@ IdP의 이름과 추가 정보를 사용하여 IdP 로그인을 시도합니다.
 TOAST Kit Adapter에서 지원하는 IdP의 이름은 ToastKitAdapterType.Idp 클래스를 통해 제공합니다.
 
 > [참고]
+>
 > Facebook SDK 로그인 시에는 Facebook 권한 정보가 필요하며, 추가 정보에 `facebook_permissions` 키를 사용하여 설정해야 합니다. Facebook 권한 정보를 설정하지 않은 경우에는 기본값으로 `[public_profile, email]` 값이 설정됩니다. 자세한 사용법은 아래 Example을 참고하십시오.
 
 #### API

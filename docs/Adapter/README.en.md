@@ -35,6 +35,30 @@ Each IdP SDK must be downloaded and installed manually.
         * 7.17.1
         * 7.17.2
 
+## 🔧 AdapterTool
+
+Error occurs as below unless IdP SDK exists as supported by Adapter.
+
+```cs
+Assets/TOAST/Kit/Adapter/IdP/Facebook/Scripts/FacebookAdapter.cs(43,17): error CS0103: The name 'FB' does not exist in the current context
+```
+
+Adapter must be set depending on the IdP.
+
+![TOASTKitAdapterSettingTool](./images/TOASTKitAdapterSettingTool_001.png)
+
+### Usage
+
+1. Menu > Tools > TOAST > Kit > Adapter > Settings
+2. Select or deselect depending on the service use.
+3. Click Set to complete the setting.
+
+> [`Caution`]
+>
+> Do not change the folder structure of TOAST Kit.
+> Do not delete the code and files of TOAST Kit.
+
+
 ## 🔨 API
 
 ### IsSuccess
