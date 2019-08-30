@@ -9,7 +9,7 @@ TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 
 
 ## Specification
 
-### Unity support version
+### Unity Support Version
 
 * 5.6.6 or higher
 
@@ -28,9 +28,9 @@ TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 
 ### 2. Service Information
 
 * 해당 서비스에 대한 자세한 정보를 제공합니다.
-    * 버전 정보
-    * Unity 지원 버전
-    * 문서 보기, 릴리스 정보, 라이선스
+    * Version information
+    * Unity supprot version
+    * View documentation, Release notes, Licenses
     * 서비스 설명
 * [Install] 버튼을 클릭하면 서비스를 설치할 수 있습니다.
 * [Uninstall] 버튼을 클릭하면 서비스를 제거할 수 있습니다.
@@ -44,5 +44,5 @@ TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 
 ### 4. Information
 
 * Manager 정보를 확인할 수 있습니다.
-    * 버전 정보
-    * 지원 메일
+    * Version information
+    * Supporting mail
