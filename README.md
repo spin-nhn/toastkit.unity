@@ -18,11 +18,11 @@ dl_toastkit_help@nhn.com
 
 ### Manager
 
-TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 확인할 수 있고, 원하는 서비스를 설치, 제거, 업데이트할 수 있습니다.<br/>
+TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 확인할 수 있고, 원하는 서비스를 설치, 제거, 업데이트할 수 있습니다.
 
-[Asset Store에서 Manager 다운로드]()
+* [Asset Store에서 Manager 다운로드]()
 
-[Manager로 이동](docs/Manager/README.md)
+* [Manager로 이동](docs/Manager/README.md)
 
 ### Adapter
 
@@ -30,16 +30,16 @@ Facebook, Google 등의 IdP는 Unity로 개발 중인 애플리케이션에서 �
 하지만 IdP마다 API가 서로 다르므로, 여러 IdP의 기능을 각각 구현 시 많은 학습과 시간이 필요합니다.<br/>
 TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 IdP의 기능을 쉽게 적용할 수 있습니다.
 
-[Adapter 서비스로 이동](docs/Adapter/README.md)
+* [Adapter 서비스로 이동](docs/Adapter/README.md)
 
 ### DLST(Duplicate Library Search Tool)
 
-서비스 준비 중
+* 서비스 준비 중
 
 ### WebView
 
-서비스 준비 중
+* 서비스 준비 중
 
 ### LogViewer
 
-서비스 준비 중
+* 서비스 준비 중
