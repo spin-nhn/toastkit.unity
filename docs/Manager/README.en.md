@@ -29,7 +29,7 @@ Check the service list of TOAST Kit from TOAST Kit Manager, while you install, r
 
 * Detail information is available regarding each service. 
     * Version information
-    * Unity supprot version
+    * Unity support version
     * View documentation, Release notes, Licenses
     * Service description
 * Click [Install] to install service.
