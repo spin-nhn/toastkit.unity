@@ -16,21 +16,27 @@ dl_toastkit_help@nhn.com
 
 ## Service
 
+### Manager
+
+Check the service list of TOAST Kit from TOAST Kit Manager, while you install, remove, or update services as you need.
+
+* [Go to Manager](docs/Manager/README.md)
+
 ### Adapter
 
 IdPs, such as Facebook or Google, provide Unity SDK to apply IdP functions faster and more easily in applications under development for Unity.<br/> However, as each IdP has different API, sufficient learning and time is required to implement each and every IdP function. <br/>
 TOAST Kit Adapter provides a common interface so as to easily apply different IdP fuctions.
 
-[Go to Adapter service](docs/Adapter/README.en.md)
+* [Go to Adapter service](docs/Adapter/README.en.md)
 
 ### DLST(Duplicate Library Search Tool)
 
-Preparing for Service
+* Preparing for Service
 
 ### WebView
 
-Preparing for Service
+* Preparing for Service
 
 ### LogViewer
 
-Preparing for Service
+* Preparing for Service
