@@ -20,7 +20,7 @@ dl_toastkit_help@nhn.com
 
 Check the service list of TOAST Kit from TOAST Kit Manager, while you install, remove, or update services as you need.
 
-* [Go to Manager](docs/Manager/README.md)
+* [Go to Manager](docs/Manager/README.en.md)
 
 ### Adapter
 
