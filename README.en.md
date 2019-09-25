@@ -18,9 +18,7 @@ dl_toastkit_help@nhn.com
 
 ### Manager
 
-TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 확인할 수 있고, 원하는 서비스를 설치, 제거, 업데이트할 수 있습니다.
-
-* [Asset Store에서 Manager 다운로드]()
+Check the service list of TOAST Kit from TOAST Kit Manager, while you install, remove, or update services as you need.
 
 * [Go to Manager](docs/Manager/README.md)
 
