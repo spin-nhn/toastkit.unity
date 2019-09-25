@@ -4,8 +4,8 @@
 
 ## Overview
 
-TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 확인할 수 있고,
-원하는 서비스를 설치, 제거, 업데이트할 수 있습니다.
+Check the service list of TOAST Kit from TOAST Kit Manager, while you install, remove, or update services as you need.
+
 
 ## Specification
 
@@ -23,26 +23,26 @@ TOAST Kit Manager를 통해서 TOAST Kit에서 제공하는 서비스 목록을 
 
 ### 1. Service List
 
-* TOAST Kit에서 제공하는 서비스 목록을 확인할 수 있습니다.
+* Check the list of services provided by TOAST Kit.
 
 ### 2. Service Information
 
-* 해당 서비스에 대한 자세한 정보를 제공합니다.
+* Detail information is available regarding each service. 
     * Version information
     * Unity supprot version
     * View documentation, Release notes, Licenses
-    * 서비스 설명
-* [Install] 버튼을 클릭하면 서비스를 설치할 수 있습니다.
-* [Uninstall] 버튼을 클릭하면 서비스를 제거할 수 있습니다.
-* [Update] 버튼을 클릭하면 서비스를 업데이트할 수 있습니다.
-* 준비 중인 서비스는 [Preparing]이라고 표시됩니다.
+    * Service description
+* Click [Install] to install service.
+* Click [Remove] to remove service.
+* Click [Update] to update service.
+* Service which under preparation shows [Under Preparation].
 
 ### 3. Language
 
-* 언어를 변경할 수 있습니다.
+* Change the language. 
 
 ### 4. Information
 
-* Manager 정보를 확인할 수 있습니다.
+* Check your manager information.  
     * Version information
     * Supporting mail
