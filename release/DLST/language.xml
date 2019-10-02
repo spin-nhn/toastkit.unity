@@ -12,6 +12,20 @@
       </language>
     </string>
     <string>
+      <key>$VIEW_DOCUMENTATION</key>
+      <language>
+        <ko>문서 보기</ko>
+        <en>View documentation</en>
+      </language>
+    </string>
+    <string>
+      <key>$VIEW_RELEASE_NOTES</key>
+      <language>
+        <ko>릴리스 정보</ko>
+        <en>Release notes</en>
+      </language>
+    </string>
+    <string>
       <key>$IMAGE_DLST</key>
       <language>
         <ko>DLST</ko>

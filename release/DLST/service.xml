@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <info>
   <title>DLST</title>
-  <status>prepare</status>
+  <status>publish</status>
   <description>$DESCRIPTION</description>
   <version>1.0.0</version>
   <dependencies>
@@ -16,7 +16,7 @@
   <packageList>
       <package>
           <path>toastkit_dlst_v1.0.0.unitypackage</path>
-          <installPath>TOAST/Kit/Dlst</installPath>
+          <installPath>TOAST/Kit/DLST</installPath>
       </package>
   </packageList>
   <linkList>
@@ -32,15 +32,15 @@
   <imageList>
     <image>
       <title>$IMAGE_DLST</title>
-      <path>/image/dlst.png</path>
+      <path>/image/DLST_Window.png</path>
     </image>
     <image>
       <title>$IMAGE_IGNORE_STRING</title>
-      <path>/image/dlst_ignore_string.png</path>
+      <path>/image/DLST_String.png</path>
     </image>
     <image>
       <title>$IMAGE_IGNORE_LIBRARY</title>
-      <path>/image/dlst_ignore_library.png</path>
+      <path>/image/DLST_Library.png</path>
     </image>
   </imageList>
 </info>
