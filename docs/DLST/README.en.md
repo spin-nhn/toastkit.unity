@@ -137,7 +137,7 @@ Menu > Tools > TOAST > Kit > Duplicate Library Search Tool(DLST)
 
 #### DLST Windows 
 
-![DLST.png](img/DLST_Window.png)
+![DLST.png](images/DLST_Window.png)
 
 1. Configuration window for **character strings to ignore for a library name**.
 2. Configuration window for **library names to exclude from search**
@@ -150,7 +150,7 @@ Menu > Tools > TOAST > Kit > Duplicate Library Search Tool(DLST)
 
 #### Configuration window for **character strings to ignore for a library name**.
 
-![String.png](img/DLST_String.png)
+![String.png](images/DLST_String.png)
 
 1. Specify a location to save file for configured character strings.
 2. List of strings
@@ -160,7 +160,7 @@ Menu > Tools > TOAST > Kit > Duplicate Library Search Tool(DLST)
 
 #### Configuration window for **library names to exclude from search** 
 
-![Library.png](img/DLST_Library.png)
+![Library.png](images/DLST_Library.png)
 
 1. Specify a location to save file for configured library names.
 2. List of library names
