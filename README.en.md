@@ -31,7 +31,7 @@ TOAST Kit Adapter provides a common interface so as to easily apply different Id
 
 ### DLST(Duplicate Library Search Tool)
 
-* Preparing for Service
+* [Go to DLST service](docs/DLST/README.en.md)
 
 ### WebView
 
