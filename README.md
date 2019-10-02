@@ -32,7 +32,7 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
 
 ### DLST(Duplicate Library Search Tool)
 
-* 서비스 준비 중
+* [DLST 서비스로 이동](docs/DLST/README.md)
 
 ### WebView
 
