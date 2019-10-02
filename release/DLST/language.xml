@@ -7,7 +7,7 @@
     <string>
       <key>$DESCRIPTION</key>
       <language>
-        <ko>TOAST Kit DLST는 Unity 프로젝트 내 중복 라이브러리를 쉽게 검색하고 삭제할 수 있는 서비스입니다.</ko>
+        <ko>TOAST Kit DLST는 Unity 중복되는 라이브러리들을 검색해서 지울 수 있는 툴입니다.</ko>
         <en>TOAST Kit DLST(Duplicate Library Search Tool) searches and removes duplicate libraries.</en>
       </language>
     </string>
@@ -21,15 +21,15 @@
     <string>
       <key>$IMAGE_IGNORE_STRING</key>
       <language>
-        <ko>라이브러리 이름에서 무시할 문자열 설정</ko>
-        <en>Ignore particular character strings in a library name</en>
+        <ko>라이브러리 이름에서 무시할 문자열</ko>
+        <en>Character strings to be ignored for library name</en>
       </language>
     </string>
     <string>
       <key>$IMAGE_IGNORE_LIBRARY</key>
       <language>
-        <ko>검색 제외 라이브러리 설정</ko>
-        <en>Library names to be excluded from search</en>
+        <ko>검색에서 제외할 라이브러리 이름</ko>
+        <en>Library name to be excluded from search</en>
       </language>
     </string>
   </list>
