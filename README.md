@@ -20,6 +20,7 @@ dl_toastkit_help@nhn.com
 
 TOAST Kit Manager에서 TOAST Kit의 서비스 목록을 확인할 수 있고, 원하는 서비스를 설치, 제거, 업데이트할 수 있습니다.
 
+* [Asset Store에서 Manager 다운로드](https://assetstore.unity.com/packages/templates/systems/toast-kit-manager-147711)
 * [Manager로 이동](docs/Manager/README.md)
 
 ### Adapter
