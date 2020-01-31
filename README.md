@@ -33,6 +33,9 @@ TOAST Kit Adapter는 하나의 공통화된 인터페이스를 제공해 여러 
 
 ### DLST(Duplicate Library Search Tool)
 
+많은 외부 라이브러리들을 사용할 경우, 라이브러리 중복 문제가 발생할 수 있습니다.
+DLST는 중복되는 라이브러리들을 검색해서 지울 수 있는 툴입니다.
+
 * [DLST 서비스로 이동](docs/DLST/README.md)
 
 ### WebView
