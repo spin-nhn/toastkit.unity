@@ -4,13 +4,13 @@
 
 ## 개요
 
-MultiLayout Component는 UI Component의 RectTransform 정보를 여러 개의 layout으로 설정하여 Resolution, Orientation 등에 대응할 수 있도록 도와줍니다.
+MultiLayout 컴포넌트는 UI 컴포넌트의 RectTransform 정보를 여러 개의 레이아웃으로 설정해 해상도, 화면 방향 등에 대응할 수 있도록 도와줍니다.
 
 ## 🔨 API
 
 ### SelectLayout
 
-설정되어 있는 layout 중 하나를 선택합니다.
+설정된 레이아웃 중 하나를 선택합니다.
 
 #### API
 

@@ -4,7 +4,7 @@
 
 ## 개요
 
-[Unity UI](https://docs.unity3d.com/Manual/com.unity.ugui.html)를 보다 효율적으로 사용할 수 있는 Component 제공
+[Unity UI](https://docs.unity3d.com/Manual/com.unity.ugui.html)를 보다 효율적으로 사용할 수 있는 컴포넌트 제공
 
 ## 스펙
 

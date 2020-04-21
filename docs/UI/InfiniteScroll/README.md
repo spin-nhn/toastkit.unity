@@ -4,20 +4,20 @@
 
 ## 개요
 
-Scroll Rect를 사용할 경우 Content 사이즈에 맞게 Item을 생성해서 재사용하도록 도와주는 Component입니다.
+스크롤 사각 영역(Scroll Rect(Scroll View))을 사용할 때 뷰포트(Viewport) 크기에 맞게 아이템을 생성해 재사용할 수 있는 컴포넌트입니다.
 
-* InfiniteScroll은 사용자가 Insert 한 InfiniteScrollData(혹은 상속받은) 클래스를 가지고 Content의 Element를 생성합니다.
+* InfiniteScroll은 사용자가 삽입한 InfiniteScrollData(혹은 상속받은) 클래스로 콘텐츠(Content)의 요소(Element)를 생성합니다.
     * InfiniteScroll.InsertData()
-* Content의 Element로 사용할 Prefab에서는 InfiniteScrollItem(혹은 상속받은) 클래스를 Attach 해서 사용하셔야 합니다.
-    * InfiniteScrollItem.UpdateData()에서 Prefab 로직 구현
+* 콘텐츠의 요소로 사용할 프리팹(Prefab)에서는 InfiniteScrollItem(혹은 상속받은) 클래스를 연결해서 사용해야 합니다.
+    * InfiniteScrollItem.UpdateData()에서 프리팹 로직 구현
 
 ## 🔨 API
 
-API 사용 방법은 Assets/TOAST/Kit/UI/InfiniteScroll/Sample/Scripts/InfiniteScrollSample.cs 를 참고하시기 바랍니다.
+API 사용 방법은 Assets/TOAST/Kit/UI/InfiniteScroll/Sample/Scripts/InfiniteScrollSample.cs를 참고하시기 바랍니다.
 
 ### InsertData
 
-Content의 Element로 보여줄 Data를 추가합니다.
+콘텐츠의 요소로 보여줄 데이터를 추가합니다.
 
 ```cs
 public void InsertData(InfiniteScrollData data)
@@ -25,7 +25,7 @@ public void InsertData(InfiniteScrollData data)
 
 ### UpdateData
 
-Insert한 Data를 업데이트합니다.
+삽입한 데이터를 업데이트합니다.
 
 ```cs
 public void UpdateData(InfiniteScrollData data)
@@ -33,7 +33,7 @@ public void UpdateData(InfiniteScrollData data)
 
 ### UpdateAllData
 
-모든 Data를 업데이트합니다.
+모든 데이터를 업데이트합니다.
 
 ```cs
 public void UpdateAllData()
@@ -41,15 +41,18 @@ public void UpdateAllData()
 
 ### RemoveData
 
-Insert한 Data를 삭제합니다.
+삽입한 데이터를 삭제합니다.
 
 ```cs
 public void RemoveData(InfiniteScrollData data)
 ```
+```cs
+public void RemoveData(int dataIndex)
+```
 
 ### Clear
 
-모든 Data를 삭제합니다.
+모든 데이터를 삭제합니다.
 
 ```cs
 public void Clear()
@@ -57,7 +60,7 @@ public void Clear()
 
 ### MoveToFirstData
 
-첫 번째 Data로 Content를 이동합니다.
+첫 번째 데이터로 콘텐츠를 이동합니다.
 
 ```cs
 public void MoveToFirstData()
@@ -65,7 +68,7 @@ public void MoveToFirstData()
 
 ### MoveToLastData
 
-마지막 Data로 Content를 이동합니다.
+마지막 데이터로 콘텐츠를 이동합니다.
 
 ```cs
 public void MoveToLastData()
@@ -73,15 +76,27 @@ public void MoveToLastData()
 
 ### IsMoveToLastData
 
-Content가 마지막 Data로 이동했는지 확인합니다.
+콘텐츠가 마지막 데이터로 이동했는지 확인합니다.
 
 ```cs
 public bool IsMoveToLastData()
 ```
 
+### MoveTo
+
+해당 데이터로 콘텐츠를 이동합니다.
+
+```cs
+public void MoveTo(InfiniteScrollData data, MoveToType moveToType)
+```
+
+```cs
+public void MoveTo(int dataIndex, MoveToType moveToType)
+```
+
 ### ResizeScrollView
 
-ScrollView 사이즈가 변경되었을 때 Infinite Scroll에서 사이즈 변경에 대한 처리를 하기 위해 필요한 API입니다.
+ScrollView 크기가 변경되었을 때 Infinite Scroll에서 크기 변경을 처리하는 데 필요한 API입니다.
 
 ```cs
 public void ResizeScrollView()
