@@ -13,6 +13,10 @@
         <version>1.0.0</version>
     </service>
     <service>
+        <name>UI</name>
+        <version>1.0.0</version>
+    </service>
+    <service>
         <name>WebView</name>
     </service>
     <service>
