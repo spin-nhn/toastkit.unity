@@ -6,14 +6,5 @@
 
 ### Features
 
-* 지원 플랫폼
-    * Windows
-    * macOS
-* 지원하는 라이브러리 형식
-    * jar
-    * aar
-    * dll
-    * framework
-    * bundle
-* 검색 폴더
-    * \*/Plugins/Android/*
+* MultiLayout
+* InfiniteScroll
